@@ -1,0 +1,6 @@
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Debug\GetWSUSCab.exe.config
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Debug\GetWSUSCab.exe
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Debug\GetWSUSCab.pdb
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\obj\Debug\GetWSUSCab.csprojResolveAssemblyReference.cache
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\obj\Debug\GetWSUSCab.exe
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\obj\Debug\GetWSUSCab.pdb

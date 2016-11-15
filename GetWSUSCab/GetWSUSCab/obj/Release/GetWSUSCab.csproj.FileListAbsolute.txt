@@ -1,0 +1,5 @@
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Release\GetWSUSCab.exe.config
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Release\GetWSUSCab.exe
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\bin\Release\GetWSUSCab.pdb
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\obj\Release\GetWSUSCab.exe
+C:\Users\jgeau\Documents\GitHub\GetWSUSCab\GetWSUSCab\GetWSUSCab\obj\Release\GetWSUSCab.pdb
